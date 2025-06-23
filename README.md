@@ -40,7 +40,7 @@ ShelfSense integrates with:
 ---
 
 ## 📂 Architecture
-
+```
 lib/
 ├── main.dart
 ├── screens/
@@ -57,7 +57,7 @@ lib/
 ├── widgets/
 │   ├── product_card.dart
 │   ├── custom_bottom_nav.dart
-
+```
 ---
 
 ## 🧰 Installation & Usage
